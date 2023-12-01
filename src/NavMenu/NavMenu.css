@@ -1,0 +1,23 @@
+.languageButton {
+    background-color: transparent;
+    border: none;
+    height: 35px;
+    width: 55px;
+  
+}
+.languageButton + .languageButton{
+    margin-left: 10px;
+}
+  
+.languageButtons {
+    display: flex;
+}
+.navMenu{
+    display: flex;
+    align-content: center;
+    margin-top: 10px;
+}
+.themeButton{
+    position: absolute;
+    right: 50px;
+}

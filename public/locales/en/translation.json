@@ -1,0 +1,8 @@
+{
+    "params": {
+        "temperature": "Temperature",
+        "day": "Date",
+        "time": "Time",
+        "notFound": "City not found"
+    }
+}

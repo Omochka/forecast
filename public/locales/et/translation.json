@@ -1,0 +1,8 @@
+{
+    "params": {
+        "temperature": "Temperatuur",
+        "day": "Kuupäev",
+        "time": "Kellaeg",
+        "notFound": "Linna ei leitud"
+    }
+}
